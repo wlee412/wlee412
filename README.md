@@ -22,9 +22,8 @@ Oracle · MySQL
 **Dev Tools**  
 Git · Eclipse · IntelliJ IDEA · VSCode  
 
-**Cloud & API**  
-Docker · AWS (EC2, RDS, S3) · REST API · OAuth2 (Kakao, Naver, Google)  
-ChatGPT API · Google Maps API  
+**Cloud**  
+Docker · AWS (EC2, RDS, S3)
 
 ---
 
