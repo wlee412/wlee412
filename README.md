@@ -43,7 +43,7 @@ WebRTC 기반 비대면 심리 상담 플랫폼
 ---
 
 ## 📊 GitHub 활동 통계
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlee412&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlee412&layout=compact&theme=dark)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlee412&show_icons=true&theme=dark)
 
 ---
