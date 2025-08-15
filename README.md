@@ -8,7 +8,7 @@ Java & Spring Boot 웹 개발자로서,<br>
 
 ## 🛠 기술 스택
 **Languages**  
-Java · Kotlin  
+Java · Kotlin · Python 
 
 **Web & UI**  
 HTML5 · CSS · JavaScript · React · JSP · jQuery  
